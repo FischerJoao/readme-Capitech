@@ -1,6 +1,6 @@
 <div align="center">
     
-![banner]()
+![banner](https://github.com/FischerJoao/readme-Capitech/blob/main/readme/banner.png?raw=true)
 </div>
 <br id="topo">
 <p align="center">
