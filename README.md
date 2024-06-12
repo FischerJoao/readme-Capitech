@@ -68,7 +68,7 @@ Funcionalidades para cada tipo de usuário do sistema:
 > 🔗 **Links gerais** <br>
 > - Documentação do software: [clique aqui para acessar](LinkDoDoc)
 > - Navegação Pelo Site: [clique aqui para acessar](https://capitech-back.vercel.app/)
-> - Links para os repositório:[clique aqui](https://github.com/alihpss/capitech-final)
+> - Link para o figma:[clique aqui]([https://github.com/alihpss/capitech-final](https://www.figma.com/file/FnzEv4aPYWLKyNBSckPGTA?locale=en&type=design)
 
 
 → [Voltar ao topo](#topo)
