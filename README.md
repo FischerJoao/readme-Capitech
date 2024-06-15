@@ -57,7 +57,7 @@ Funcionalidades para cada tipo de usuário do sistema:
     
 <div align="center">
     
-![ requisitos funcionais](ParteDoDoc)
+![ requisitos funcionais](readme/nf)
 ![requisitos  não funcionais](ParteDoDoc)
 ![user stories](ParteDoDoc)
 </div>
