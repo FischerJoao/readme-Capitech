@@ -58,11 +58,11 @@ Funcionalidades para cada tipo de usuário do sistema:
 <div align="center">
     
 ![ requisitos funcionais](readme/funcionais.png)
-\
+
 ![requisitos  não funcionais](readme/nf)
-\
+
 ![user stories](readme/userStory.png)
-\
+
 </div>
   
 → [Voltar ao topo](#topo)
