@@ -59,7 +59,7 @@ Funcionalidades para cada tipo de usuário do sistema:
     
 ![ requisitos funcionais](readme/funcionais.png)
 ![requisitos  não funcionais](readme/nf)
-![user stories](ParteDoDoc)
+![user stories](readme/userStory.png)
 </div>
   
 → [Voltar ao topo](#topo)
