@@ -18,6 +18,10 @@ O projeto consiste na elaboração de um site voltado para a **educação**, com
 ensino gratuito e de qualidade para pessoas que tem interesse em ingressar nas áreas de 
 **tecnologia** (mais especificamente no nicho de desenvolvimento).
 
+Este projeto visa suprir a demanda por educação tecnológica acessível, oferecendo uma plataforma centrada no desenvolvimento e fornecendo oportunidades de aprendizado gratuito na área. 
+A crescente importância da tecnologia e as limitações no acesso à educação inspiram este projeto, que busca democratizar o conhecimento e capacitar interessados no desenvolvimento.
+
+Além de fornecer conhecimento técnico, a plataforma pretende impactar positivamente a sociedade, promovendo inovação e inclusão digital.
 > _Projeto baseado na metodologia ágil SCRUM_
 
 :pushpin: Status do Projeto: **Concluído** :heavy_check_mark:
