@@ -45,7 +45,7 @@ Funcionalidades para cada tipo de usuário do sistema:
 <details>
    <summary>Usuário administrador</summary>
     <div align="center">
-        <img src="">
+        <img src="readme/registroCap.gif">
     </div>
 </details>
     
