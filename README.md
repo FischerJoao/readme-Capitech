@@ -37,17 +37,19 @@ Cada entrega foi realizada a partir de cards no Trello, prints das tasks:
 ### :clapper: Apresentação Final
 Funcionalidades para cada tipo de usuário do sistema:
 <details>
-   <summary>Usuário comum</summary>
+   <summary>Usuário ADM</summary>
     <div align="center">
-        <img src="">
+        <img src="readme/registro.gif">
+        <img src="readme/login.gif">
     </div>
-</details
+</details>
 <details>
-   <summary>Usuário administrador</summary>
+   <summary>Usuário comum</summary>
     <div align="center">
         <img src="readme/registro.gif">
     </div>
 </details>
+
     
 → [Voltar ao topo](#topo)
 
