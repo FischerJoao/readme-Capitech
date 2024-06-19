@@ -50,7 +50,11 @@ Funcionalidades para cada tipo de usuário do sistema:
 <details>
    <summary>Usuário comum</summary>
     <div align="center">
-        <img src="">
+        acesso ao site - Home Page
+        <img src="readme/home.gif"> <br>
+        <br>
+        Acesso aos conteudos 
+        <img src="readme/Conteudo.gif">
     </div>
 </details>
 
