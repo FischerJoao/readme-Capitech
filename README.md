@@ -87,7 +87,7 @@ Funcionalidades para cada tipo de usuário do sistema:
 > - Navegação Pelo Site: [clique aqui para acessar](https://capitech-front-final.vercel.app/)
 > - Link para o figma:[clique aqui para acessar](https://www.figma.com/file/FnzEv4aPYWLKyNBSckPGTA?locale=en&type=design)
 > - Documentação da api: [clique aqui para acessar](readme/docAPI.md)
-> - Documentação de IHC : [clique aqui para acessar]()
+> - Documentação de IHC : [clique aqui para acessar](readme/ihcDoc.docx)
 
 
 → [Voltar ao topo](#topo)
