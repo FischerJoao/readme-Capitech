@@ -39,16 +39,16 @@ Funcionalidades para cada tipo de usuário do sistema:
 <details>
    <summary>Usuário ADM</summary>
     <div align="center">
-        #Registro
-        <img src="readme/registro.gif">
-        #Login 
+        Registro
+        <img src="readme/registro.gif"> <br>
+        Login 
         <img src="readme/login.gif">
     </div>
 </details>
 <details>
    <summary>Usuário comum</summary>
     <div align="center">
-        <img src="readme/registro.gif">
+        <img src="">
     </div>
 </details>
 
