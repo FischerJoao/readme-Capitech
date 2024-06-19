@@ -85,6 +85,8 @@ Funcionalidades para cada tipo de usuário do sistema:
 > 🔗 **Links gerais** <br>
 > - Documentação do software: [clique aqui para acessar](readme/documentacao.pdf)
 > - Navegação Pelo Site: [clique aqui para acessar](https://capitech-front-final.vercel.app/)
+> - Link para o repositório do Front-End: [clique aqui para acessar](https://github.com/Joel-Neto/capitech-front-final)
+> - Link para o repositório do Back-End: [clique aqui para acessar](https://github.com/alihpss/capitech-final)
 > - Link para o figma:[clique aqui para acessar](https://www.figma.com/file/FnzEv4aPYWLKyNBSckPGTA?locale=en&type=design)
 > - Documentação da api: [clique aqui para acessar](readme/docAPI.md)
 > - Documentação de IHC : [clique aqui para acessar](readme/ihcDoc.pdf)
