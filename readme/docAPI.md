@@ -4,6 +4,8 @@
 
 ## Listar Todas as Trilhas
 
+### URL base do projeto: **https://capitech-back.vercel.app/**
+
 **GET /trilhas**
 
  - Retorna todas as trilhas disponíveis.
