@@ -31,7 +31,7 @@ Cada entrega foi realizada a partir de cards no Trello, prints das tasks:
 | Sprint | Previsão | Status | Histórico |
 |:--:|:----------:|:----------------|:-------------------------------------------------:|
 | 01 | 04/03/2024 | ✔️ Concluída    | [ver relatório](https://joel-fatec.atlassian.net/browse/CAP1-14?atlOrigin=eyJpIjoiN2M5MTlhNGU0MmNhNDhjNmI3NzcwODJlNWRiNTk0OTgiLCJwIjoiaiJ9) |
-| 02 | 18/04/2024 | ✔️ Concluída    | [ver relatório]([linkTrello](https://joel-fatec.atlassian.net/browse/CAP1-15?atlOrigin=eyJpIjoiNDg5MTlmNDgzZDFjNGVhNjg3ZWRiMWNlOTQyM2QzNjEiLCJwIjoiaiJ9)) |
+| 02 | 18/04/2024 | ✔️ Concluída    | [ver relatório](https://joel-fatec.atlassian.net/browse/CAP1-15?atlOrigin=eyJpIjoiNDg5MTlmNDgzZDFjNGVhNjg3ZWRiMWNlOTQyM2QzNjEiLCJwIjoiaiJ9) |
 | 03 | 17/06/2024 | ✔️ Concluída    | [ver relatório](https://joel-fatec.atlassian.net/browse/CAP1-19?atlOrigin=eyJpIjoiYzZlOTc4MWE1M2M3NGQ3ZmEyMmYyOGE0NjdiZGYxNjkiLCJwIjoiaiJ9) |
 
 ### :clapper: Apresentação Final
