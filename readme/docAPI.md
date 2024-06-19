@@ -1,8 +1,6 @@
-# **DOC API 🤘🏻🚀🛸**
+# **DOCUMENTAÇÃO API 🤘🏻🚀🛸**
 
 # Endpoints de Trilhas 
-
- 
 
 ## Listar Todas as Trilhas
 
