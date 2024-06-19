@@ -83,7 +83,7 @@ Funcionalidades para cada tipo de usuário do sistema:
 
     
 > 🔗 **Links gerais** <br>
-> - Documentação do software: [clique aqui para acessar](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FFischerJoao%2Freadme-Capitech%2Fmain%2Freadme%2FCapitech%2520-%2520Projeto%2520Interdisciplinar%2520-%2520ES2%2520-%2520FINAL%2520(1)%2520alterado%25201.docx&wdOrigin=BROWSELINK)
+> - Documentação do software: [clique aqui para acessar](readme/documentacao.pdf)
 > - Navegação Pelo Site: [clique aqui para acessar](https://capitech-front-final.vercel.app/)
 > - Link para o figma:[clique aqui para acessar](https://www.figma.com/file/FnzEv4aPYWLKyNBSckPGTA?locale=en&type=design)
 > - Documentação da api: [clique aqui para acessar](readme/docAPI.md)
